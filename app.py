@@ -1,6 +1,6 @@
 import mysql.connector
 from tabulate import tabulate
-import test
+
 # insert MySQL Database information here
 HOST = "localhost"
 DATABASE = "PythonDB"
